@@ -1,0 +1,15 @@
+header{
+    border-bottom: 5px solid #3A363B;
+    display: flex;
+}
+.brand{
+    display: flex;
+}
+
+.brand h1{
+    margin: 16px 41px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 7px;
+    color: #8E00E5;
+    cursor: pointer;
+}

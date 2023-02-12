@@ -1,0 +1,12 @@
+#callToAction_title{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 7px;
+    color: #000;
+    margin: 0 20px;
+}
+
+@media (max-width: 760px) {
+    #callToAction_title{
+        text-align: center;
+    }
+}
